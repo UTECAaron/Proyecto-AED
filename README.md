@@ -14,7 +14,8 @@ Profesor: Víctor Racsó Galván Oyola · Sección: Teo. 3 – Lab. 365
 
 - **Repositorio GitHub:** <https://github.com/UTECAaron/Proyecto-AED>
 - **Video (Google Drive):** <https://drive.google.com/drive/folders/1C7v52nF2rU59dl3-RbO8wI4D74jXY5No?usp=sharing>
-- **Video (copia en este repositorio):** [`video/Componentes_biconexas.mp4`](video/Componentes_biconexas.mp4) (1080p30, ≈ 4 min 44 s)
+- **Video final (editado y con narración):** en el enlace de Google Drive de arriba.
+- **Render base de Manim (sin editar, sin voz):** [`video/Componentes_biconexas.mp4`](video/Componentes_biconexas.mp4) (1080p30, ≈ 4 min 44 s), generado directamente por `run.sh`.
 - **Informe:** [`docs/Informe.pdf`](docs/Informe.pdf)
 
 ## ¿Qué contiene este proyecto?
@@ -26,7 +27,7 @@ Profesor: Víctor Racsó Galván Oyola · Sección: Teo. 3 – Lab. 365
 | `data/graph_disc.txt` | Grafo de casos borde: raíz con 2 hijos, grafo no conexo, puente y vértice aislado. |
 | `data/trace_*.json` | Trazas generadas por el programa C++ que consume la animación. |
 | `manim/bcc_video.py` | Escena de Manim (`BCCVideo`) que reproduce los eventos de la traza. |
-| `video/Componentes_biconexas.mp4` | Render MP4 incluido en el repositorio. |
+| `video/Componentes_biconexas.mp4` | Render base de Manim incluido en el repositorio (sin edición ni voz). |
 | `tests/verify.py` | Pruebas aleatorias de verificación contra NetworkX. |
 | `docs/Informe.pdf` | Informe del proyecto. |
 | `run.sh` / `run.bat` | Scripts para compilar, generar trazas y renderizar el video. |

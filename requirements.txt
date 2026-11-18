@@ -1,0 +1,3 @@
+manim>=0.19
+numpy
+networkx   # solo para tests/verify.py
