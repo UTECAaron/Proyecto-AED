@@ -4,9 +4,9 @@
 Profesor: Víctor Racsó Galván Oyola · Sección: Teo. 3 – Lab. 365
 
 **Integrantes**
-- Chahuara Galdos, Sebastian Ernesto (202410735)
-- Romano Castro, Aaron Adriano (202410322)
-- Garcia López, Bruno William (CODIGO_BRUNO)
+- Chahuara Galdos, Sebastian Ernesto 
+- Romano Castro, Aaron Adriano 
+- Garcia López, Bruno William 
 
 **Tema asignado:** Componentes biconexas (algoritmo de Tarjan / Hopcroft–Tarjan, O(|V|+|E|)).
 
