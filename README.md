@@ -14,7 +14,7 @@
 - **Repositorio GitHub:** [https://github.com/UTECAaron/Proyecto-AED](https://github.com/UTECAaron/Proyecto-AED)
 - **Video editado (Google Drive):** [https://drive.google.com/drive/folders/1C7v52nF2rU59dl3-RbO8wI4D74jXY5No?usp=sharing](https://drive.google.com/drive/folders/1C7v52nF2rU59dl3-RbO8wI4D74jXY5No?usp=sharing)
 
-> El video está alojado en la carpeta compartida de Google Drive. Para que el docente pueda verlo, configura el acceso general como **«Cualquier persona con el enlace – Lector»**.
+
 
 ## ¿Qué contiene este proyecto?
 
